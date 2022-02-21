@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.te.javabasics.Variable"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.Method"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.access.AccessPack"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.AccessSpecifiers"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.ConstructorDemo"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.ConstructorDefault"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.StaticBlock"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.StaticNonStaticBlock"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.MethodOverloading"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.InheritanceProgram"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.InheritanceMain"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.Overriding"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.OverridingSecond"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.AbstractClass"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.AbstractImplementation"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.InterfaceA"/>
+    <fullyQualifiedTypeName name="com.te.javabasics.InterfaceImplement"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package com.te.javabasics;
+
+public class OverridingSecond extends Overriding{
+
+	public static void main(String[] args) {
+      
+	}
+
+}

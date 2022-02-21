@@ -1,0 +1,11 @@
+package com.te.javabasics;
+
+public class ArrayExample {
+
+	public static void main(String[] args) {
+         int[] age = {24,30,40,56,46};
+         System.out.println("the age of A:" +age[0]);
+		
+	}
+
+}

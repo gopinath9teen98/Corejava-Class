@@ -1,0 +1,17 @@
+package com.te.javabasics;
+
+public class Variable {
+	int a =9; //instance variable
+
+	public static void main(String[] args) {
+		Variable variable=new Variable();
+		int b= variable.a;
+		int i; //local variable
+		i = 19;
+		i = 12;
+		System.out.println(i);
+		
+		System.out.println(b);
+	}
+
+}

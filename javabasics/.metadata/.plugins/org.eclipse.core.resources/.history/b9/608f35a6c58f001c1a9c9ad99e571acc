@@ -1,0 +1,11 @@
+package com.te.javabasics;
+
+public class TypeCasting {
+
+	public static void main(String[] args) {
+		double l = 27.3;
+         short b = (short) l;
+	          System.out.println("the:" +b);	
+	}
+
+}

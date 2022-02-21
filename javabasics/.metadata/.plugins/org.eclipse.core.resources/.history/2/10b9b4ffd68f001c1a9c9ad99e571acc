@@ -1,0 +1,15 @@
+package com.te.javabasics;
+
+public class OverridingSecond extends Overriding{
+public void parent() {
+	super.m1();
+	System.out.println("from parent");
+}
+	public static void main(String[] args) {
+      OverridingSecond overridingSecond=new OverridingSecond();
+      overridingSecond.parent(); 
+//      overridingSecond.m1(); 
+		
+	}
+
+}

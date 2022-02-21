@@ -1,0 +1,18 @@
+package com.te.javabasics;
+
+public class StaticNonStaticBlock {
+	public StaticNonStaticBlock() {
+		
+		System.out.println("static and non static block conrtuctor ");
+	}
+	
+	static {
+		System.out.println();
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

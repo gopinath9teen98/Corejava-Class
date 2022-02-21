@@ -1,0 +1,9 @@
+package com.te.javabasics1;
+
+public class AccessPack {
+
+	public static void main(String[] args) {
+
+	}
+
+}

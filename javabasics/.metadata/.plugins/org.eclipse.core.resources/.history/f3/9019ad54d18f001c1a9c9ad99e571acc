@@ -1,0 +1,19 @@
+package com.te.javabasics;
+
+public class PassArrayIntoConstructor
+{
+    //method to print an array, taking array as an argument   
+    private static void printArray(String[] StringArray){
+        System.out.println("Array contents printed through method:");
+        //print individual elements of array using enhanced for loop
+       for(String val: StringArray)
+          System.out.println(val + " ");
+    }
+    public static void main(String[] args) {
+        //integer array
+            String[] StringArray = {"bangalore","chennai","kochi"};
+     
+         //call printArray method by passing intArray as an argument        
+         printArray(StringArray);
+    }
+}

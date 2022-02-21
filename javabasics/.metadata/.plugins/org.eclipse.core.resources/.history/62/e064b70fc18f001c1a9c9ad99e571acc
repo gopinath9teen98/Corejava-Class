@@ -1,0 +1,17 @@
+package com.te.javabasics;
+
+public class StaticNonStaticBlock {
+	public StaticNonStaticBlock() {
+		
+		System.out.println("staticandnonstaticblock conrtuctor ");
+	}
+	
+	static {
+		System.out.println("static block");
+	}
+
+	public static void main(String[] args) {
+                StaticNonStaticBlock staticBlock = new StaticNonStaticBlock();
+	}
+
+}

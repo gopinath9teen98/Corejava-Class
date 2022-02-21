@@ -1,0 +1,42 @@
+//import java.util.Scanner;
+package com.te.javabasics;
+
+import java.util.Scanner;
+
+public class SwitchCaseStatement {
+
+	public static void main(String[] args) {
+	    String days;
+		Scanner s=new Scanner(System.in); 
+        System.out.println("Enter the day:"); 
+        days =s.next();
+		switch (days) {
+		case "monday":
+			System.out.println("Hi Monday");
+			break;
+		case "tuesday":
+			System.out.println("Hi tuesday");
+			break;
+		case "wednesday":
+			System.out.println("Hi wednesday");
+			break;
+		case "thursday":
+			System.out.println("Hi thursday");
+			break;
+		case "friday":
+			System.out.println("Hi friday");
+			break;
+		case "saturday":
+			System.out.println("Hi saturday");
+			break;
+		case "sunday":
+			System.out.println("Hi sunday");
+			break;
+
+		default:
+			System.out.println("invalid data");
+			break;
+		}
+	}
+
+}

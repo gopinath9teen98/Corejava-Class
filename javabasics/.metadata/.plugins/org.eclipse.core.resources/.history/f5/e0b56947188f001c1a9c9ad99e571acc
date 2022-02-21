@@ -1,0 +1,14 @@
+package com.te.javabasics;
+
+public class IfStatement {
+
+	public static void main(String[] args) {
+            int age=25;
+            if(age>25) {
+            	System.out.println("the age is above 25");
+            } else {
+            	System.out.println("the age is below 25");
+            }
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.te.javabasics;
+
+public class ConstructorDemo { //main class
+	int x;
+	public ConstructorDemo(int y) { // Create a class constructor for the Main class
+		x=y;
+         System.out.println("contructor " +x);
+	}
+
+	public static void main(String[] args) {
+		ConstructorDemo myObject = new ConstructorDemo(4);  // Create an object of class Main (This will call the constructor) 
+                System.out.println(myObject.x);
+	}
+
+}

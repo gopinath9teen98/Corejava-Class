@@ -1,0 +1,9 @@
+package com.te.javabasics;
+
+public class Overriding {
+
+	public void parent() {
+                  System.out.println("Hello World");
+	}
+
+}

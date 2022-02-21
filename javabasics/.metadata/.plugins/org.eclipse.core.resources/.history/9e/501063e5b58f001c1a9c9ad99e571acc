@@ -1,0 +1,16 @@
+package com.te.javabasics;
+
+public class ContructorArray {
+	
+	public ContructorArray(String city){
+		
+		System.out.println(city);
+	}
+
+	public static void main(String[] args) {
+		
+		ContructorArray contructorarray = new ContructorArray("chennai");
+				
+	}
+
+}

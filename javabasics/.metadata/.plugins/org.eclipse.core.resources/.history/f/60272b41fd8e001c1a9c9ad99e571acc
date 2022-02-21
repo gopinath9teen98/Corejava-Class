@@ -1,0 +1,16 @@
+package com.te.javabasics;
+
+public class Variable {
+
+	public static void main(String[] args) {
+            int i ;
+             i = 19;
+             i = 12;
+             
+             
+            System.out.println(i);
+		
+		
+	}
+
+}

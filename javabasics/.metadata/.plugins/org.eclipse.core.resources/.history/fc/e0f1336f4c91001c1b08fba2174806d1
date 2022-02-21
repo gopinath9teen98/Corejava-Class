@@ -1,0 +1,14 @@
+package com.te.collection.arraycollabera;
+
+import java.util.LinkedList;
+
+public class GenericClass {
+
+	public static void main(String[] args) {
+                 LinkedList<Employee> linkedList= new LinkedList<Employee>();
+                 linkedList.add(Employee new("65"));
+                 
+		
+	}
+
+}

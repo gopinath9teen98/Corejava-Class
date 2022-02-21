@@ -1,0 +1,17 @@
+package com.te.javabasics;
+
+public class ContructorArray {
+	
+	public ContructorArray(City[]  Array){
+		
+		 for(City val: Array)
+	          System.out.print(val + " ");
+	}
+
+	public static void main(String[] args) {
+		
+		City[] Array = {"banglore","chennai"}
+		ContructorArray contructorarray = new ContructorArray(City)
+	}
+
+}

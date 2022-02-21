@@ -1,0 +1,12 @@
+package com.te.javabasics;
+
+public class AbstractImplementation extends AbstractClass{
+        
+	
+	
+	
+	public static void main(String[] args) {
+         
+	}
+
+}

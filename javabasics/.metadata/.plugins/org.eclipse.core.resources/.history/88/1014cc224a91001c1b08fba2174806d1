@@ -1,0 +1,12 @@
+package com.te.collection.arraycollabera;
+
+public class Employee {
+	private double eId;
+	private String eName;
+	private String address;
+
+	public static void main(String[] args) {
+
+	}
+
+}

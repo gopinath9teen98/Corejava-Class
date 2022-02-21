@@ -1,0 +1,12 @@
+package com.te.javabasics;
+
+public class StringToMethod {
+
+	public static void main(String[] args) {
+         String s = "Hello World";
+           System.out.println("use of toChar()");
+           char[] arr = s.toCharArray();
+           System.out.println(arr);
+	}
+
+}

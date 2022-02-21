@@ -1,0 +1,21 @@
+package com.te.javabasics;
+
+public class InerfaceImplement implements InterfaceA{
+	
+	public void name() {
+		System.out.println("Name");
+	}
+
+	public void address() {
+		System.out.println("bangalore");
+	}
+
+	public void contact() {
+		System.out.println("0987654321");
+	}
+
+	public static void main(String[] args) {
+             In
+	}
+
+}

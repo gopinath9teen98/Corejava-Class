@@ -1,0 +1,19 @@
+package com.te.javabasics;
+
+public class MethodOverloading {
+	public void M1(int a) {
+		System.out.println("M1 method");
+	}
+	public void M1(int b , int c) {
+		System.out.println("M2 method");
+	}
+	
+
+	public static void main(String[] args) {
+              MethodOverloading methodOverloading = new MethodOverloading();
+              methodOverloading.M1(1);
+              methodOverloading.M1(2,3);
+              
+	}
+
+}
